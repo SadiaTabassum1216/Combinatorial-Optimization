@@ -1,0 +1,10 @@
+5 10
+4 12
+8 32
+2 40
+6 30
+1 50
+
+Information about the above input:
+No of items(n), Total weight
+Weight and Benefit of n-th item
